@@ -21,3 +21,5 @@ test-tmp
 *.iml
 *.class
 src/gen
+*.class
+
